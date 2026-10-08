@@ -78,6 +78,7 @@ hr {
     background-color: #FFC726;
     border-radius: 20px;
     padding: 10px;
+    margin: 10px;
     color: black;
     font-weight: 600;
     border: none;
@@ -94,6 +95,7 @@ hr {
         RGB(32, 19, 19);
     border-radius: 20px;
     padding: 10px;
+    margin: 10px;
     color: white;
     text-decoration: none;
     border: 1px solid;
@@ -113,6 +115,7 @@ hr {
     background-color:
         RGB(32, 19, 19);
     padding: 10px;
+    margin: 10px;
     color: white;
     font-family: Arial, Helvetica, sans-serif;
     text-decoration: none;
