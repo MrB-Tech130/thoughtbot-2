@@ -1,0 +1,192 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #201313;
+    text-align: left;
+    justify-self: center;
+}
+
+a {
+    color:
+        #FFC726;
+    font-weight: 400;
+}
+
+.a {
+    text-decoration: none;
+    color: whitesmoke;
+    font-weight: 800;
+}
+
+/* 
+.a:hover {
+    color: #201313;
+} */
+
+p {
+    color:
+        RGB(234, 230, 228);
+    font-size: 28px;
+    margin-bottom: 10px;
+}
+
+.h {
+    color:
+        RGB(250, 249, 249);
+    font-weight: 300;
+    font-size: 50px;
+    margin-bottom: 20px;
+}
+
+.header {
+    margin-top: 120px;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+.ar {
+    margin-top: 50px;
+    margin-bottom: 20px;
+    width: 100%;
+}
+
+.b {
+    text-decoration: none;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 700;
+    font-size: 30px;
+}
+
+
+/* 
+.b:hover {
+    color: #FFC726;
+} */
+
+
+hr {
+    color:
+        #4E413E;
+}
+
+.one {
+    background-color: #FFC726;
+    border-radius: 20px;
+    padding: 10px;
+    color: black;
+    font-weight: 600;
+    border: none;
+    font-size: 18px;
+    font-family: JetBrains Mono, monospace;
+    text-decoration: none;
+    margin-left: 10px;
+    margin-right: 8px;
+}
+
+
+.two {
+    background-color:
+        RGB(32, 19, 19);
+    border-radius: 20px;
+    padding: 10px;
+    color: white;
+    text-decoration: none;
+    border: 1px solid;
+    font-size: 18px;
+    font-family: JetBrains Mono, monospace;
+    margin-right: 10px;
+}
+
+/* 
+.two:hover {
+    background-color:
+        #FFE7A3;
+    color: #201313;
+} */
+
+.tree {
+    background-color:
+        RGB(32, 19, 19);
+    padding: 10px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: none;
+    border: none;
+    font-size: 22px;
+    font-weight: 300;
+    text-decoration: underline dashed;
+}
+
+/* 
+.tree:hover {
+    color: #FFC726;
+    text-decoration: none;
+} */
+
+.AI {
+    margin-top: 10px;
+    font-size: 18px;
+}
+
+.B {
+    text-decoration: none;
+    color: rgb(214, 214, 82);
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 700;
+    font-size: 18px;
+}
+
+/* 
+.B:hover {
+    color:
+
+        #FFC726;
+} */
+
+.dep {
+    text-decoration: none;
+    color: white;
+    font-size: 18px;
+}
+
+/* 
+.dep:hover {
+    color: #FFC726;
+} */
+
+.par {
+    font-size: 18px;
+}
+
+.no {
+    color: #FFC726;
+    font-size: 20px;
+}
+
+.nom {
+    color: whitesmoke;
+    text-decoration: underline dashed;
+    font-size: 18px;
+    margin: 0 5px;
+}
+
+.nomm {
+    text-align: center;
+    margin: 20px;
+}
+
+.n {
+    text-decoration: underline dashed;
+    font-size: 22px;
+    margin-right: 12px;
+}
+
+.l {
+    text-decoration: underline dashed;
+    font-size: 22px;
+}
