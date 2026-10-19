@@ -202,7 +202,6 @@ hr {
 nav {
     display: flex;
     flex-direction: row;
-    justify-content: ;
     gap: 30px;
     margin-left: 10px;
 
